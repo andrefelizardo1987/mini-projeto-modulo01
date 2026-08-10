@@ -4,7 +4,7 @@
 // Ajuste estes dados para que representem o seu perfil.
 
 const candidato = {
-  nome: "Andre",
+  nome: "Andre Felizardo",
   areaInteresse: "Desenvolvimento Front-End",
   habilidades: ["HTML", "CSS", "JavaScript", "Git", "React"],
   tempoExperienciaMeses: 0,
