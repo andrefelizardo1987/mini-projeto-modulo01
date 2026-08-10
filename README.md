@@ -2,10 +2,6 @@
 
 Aluno: André Felizardo
 
-### Mini Projeto Modulo 01 - SCTEC
-
-Aluno: André Felizardo
-
 ## SkillMatch JS
 
 Simulador em JavaScript puro que compara o perfil tecnico de uma pessoa candidata com vagas ficticias de Front-End Junior.
@@ -17,7 +13,7 @@ Abra `skillmatch.js` e altere o objeto `candidato` para usar seu nome, suas habi
 
 ### No VS Code
 
-1. Abra a pasta do projeto no VS Code.
+1. Abra a pasta do projeto no VS Code. (https://code.visualstudio.com/download)
 2. Instale o Node.js, caso ainda nao esteja instalado. (https://nodejs.org/pt-br/download)
 3. Abra o terminal do VS Code.
 4. Execute `node skillmatch.js`.
@@ -90,15 +86,12 @@ A internet e uma rede de computadores. Quando abrimos um site, o navegador envia
 
 ## Arquitetura cliente-servidor
 
-O **cliente** e o programa que pede alguma coisa, como um navegador. O **servidor** e o computador ou programa que recebe o pedido e devolve dados. Neste projeto, `iniciarSkillMatch` representa o cliente, enquanto `carregarVagasDoServidor` representa uma consulta ao servidor. `setTimeout` cria o atraso e a `Promise` representa a resposta que chegara no futuro. Nenhuma API real e utilizada.
-
-
+O **cliente** e o programa que pede alguma coisa, como um navegador. O **servidor** e o computador ou programa que recebe o pedido e devolve dados. Neste projeto, `iniciarSkillMatch` representa o cliente, enquanto `carregarVagasDoServidor` representa uma consulta ao servidor. `setTimeout` cria o atraso e a `Promise` representa a resposta que chegara no futuro. Nenhuma API real foi utilizada.
 
 ## Organizacao do Kanban
 
 As colunas obrigatorias sao Backlog, A Fazer, Em Andamento, Teste Final e Concluido.
 O planejamento esta no link: https://trello.com/invite/b/6a792ec18c6d7aa25969885d/ATTIfef3b8ce36099427878af32765e225d4022A8ED8/mini-projeto-modulo01-sctec
-
 
 ## Video
 
