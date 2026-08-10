@@ -86,16 +86,16 @@ A internet e uma rede de computadores. Quando abrimos um site, o navegador envia
 
 ## Arquitetura cliente-servidor
 
-O **cliente** e o programa que pede alguma coisa, como um navegador. O **servidor** e o computador ou programa que recebe o pedido e devolve dados. Neste projeto, `iniciarSkillMatch` representa o cliente, enquanto `carregarVagasDoServidor` representa uma consulta ao servidor. `setTimeout` cria o atraso e a `Promise` representa a resposta que chegara no futuro. Nenhuma API real foi utilizada.
+O **cliente** e o programa que pede alguma coisa, como um navegador. O **servidor** e o computador ou programa que recebe o pedido e devolve dados. Neste projeto, `iniciarSkillMatch` representa o cliente, enquanto `carregarVagasDoServidor` representa uma consulta ao servidor. `setTimeout` cria o atraso e a `Promise` representa a resposta que chegara no futuro.
 
 ## Organizacao do Kanban
 
-As colunas obrigatorias sao Backlog, A Fazer, Em Andamento, Teste Final e Concluido.
+As colunas obrigatorias sao Backlog, A Fazer, Em Andamento e Concluido.
 O planejamento esta no link: https://trello.com/invite/b/6a792ec18c6d7aa25969885d/ATTIfef3b8ce36099427878af32765e225d4022A8ED8/mini-projeto-modulo01-sctec
 
 ## Video
 
-O link do vídeo de apresentação: 
+O link do vídeo de apresentação: https://drive.google.com/file/d/1-hTr3ICJiO4LWvqNre3rdI-MU9ssAoHH/view?usp=sharing 
 
 ## Github
 
